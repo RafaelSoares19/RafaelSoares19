@@ -1,8 +1,7 @@
 ### Hi there I'm Rafael Soares👋
 
 - 🔭 I’m currently working on full stack
-- 🌱 I’m currently learning Go and python
-- 😄 Pronouns: ele/dele
+- 🌱 I’m currently learning Angular and python
 
 
 <div align="center">
