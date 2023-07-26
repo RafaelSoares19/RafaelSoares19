@@ -1,7 +1,7 @@
 ### Hi there I'm Rafael Soares👋
 
 - 🔭 I’m currently working on full stack
-- 🌱 I’m currently learning Angular and python
+- 🌱 I’m currently learning Angular and Go
 
 
 <div align="center">
